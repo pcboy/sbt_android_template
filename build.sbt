@@ -2,7 +2,7 @@
 androidDefaults
 
 // Name of your app
-name := "Scratch"
+name := "Androxec"
 
 // Version of your app
 version := "0.1"
@@ -20,9 +20,4 @@ libraryDependencies ++= Seq(
    "ch.boye" %% "httpclientandroidlib" % "1.1.0" from "https://httpclientandroidlib.googlecode.com/files/httpclientandroidlib-1.1.0.jar", 
     "org.scalaj" %% "scalaj-collection" % "1.5",
     "net.liftweb" %% "lift-json" % "2.5.1"
-//    "com.google.android" % "annotations" % "4.1.1.4",
-//    "javax.inject" % "javax.inject" % "1",
-//    apklib("com.larswerkman" % "colorpicker" % "7"),
-//    apklib("com.viewpagerindicator" % "library" % "2.4.1")
     )
-
