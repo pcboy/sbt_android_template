@@ -1,4 +1,4 @@
-package com.scratch
+package com.pcboy.androxec
 
 import android.app.Activity
 import android.os.Bundle
